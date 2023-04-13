@@ -1,0 +1,8 @@
+.heart{
+    margin-left: 100px;
+
+}
+
+.heart:hover{
+    cursor: pointer;
+}
